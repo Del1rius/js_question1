@@ -1,3 +1,3 @@
-let subjects = ["Python", "C++", "VB.Net", "Javascript", "Assembly"];
-document.write(subjects[4]);
+let subjects = ["Python ", "C++ ", "VB.Net ", "Javascript ", "Assembly "];
+document.write(subjects.pop());
 document.write(subjects[2]);
